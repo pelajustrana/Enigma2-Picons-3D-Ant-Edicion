@@ -7,5 +7,5 @@ Diseños elaborados desde cero, partiendo de la base de los logotipos que las di
 
 <img src="https://i.imgur.com/cldDb8S.png">
 
-### Licencia del proyecto
+### Licencia
 (Licencia MIT) cualquier persona puede hacer el uso que crea conveniente de este repositorio, tan solo indicar que la información que está utilizando procede del mismo.
